@@ -27,6 +27,15 @@ Overall, the paper provides a detailed overview of the features and capabilities
 * The authors discuss the potential applications of WiSP in various areas, such as knowledge graph exploration, query optimization, and semantic similarity computation.
 * The paper concludes that WiSP is a useful tool for RDF graph analysis and can provide benefits in various applications.
 
+"Phuzzy.link: A SPARQL-powered Client-Sided Extensible Semantic Web Browser"
+
+* The paper presents Phuzzy.link, a client-side browser for the Semantic Web that uses SPARQL for querying and displaying linked data.
+* Phuzzy.link is designed to provide users with a user-friendly and extensible interface for exploring and querying linked data.
+* The browser is built using modern web technologies such as React and Redux, and relies on several Semantic Web standards, including RDF, RDFS, and OWL.
+Phuzzy.link allows users to execute SPARQL queries directly within the browser, and provides a number of pre-defined query templates for common tasks.
+* The browser includes a number of features designed to make working with linked data easier, such as auto-completion for URIs, and the ability to easily browse and explore the underlying RDF graph.
+Phuzzy.link is highly extensible, and allows users to easily define new query templates, visualizations, and other customizations.
+* you * Overall, the paper argues that Phuzzy.link provides a powerful and flexible tool for working with linked data, and has the potential to facilitate new types of data exploration and analysis.
 
 
 
