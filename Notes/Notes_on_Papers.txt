@@ -1,0 +1,33 @@
+"Leveraging Schema Information for Improved Knowledge Graph Navigation" :
+* The paper addresses the problem of navigating large, complex knowledge graphs, which can be difficult for users to explore and understand.
+* The authors propose a technique for leveraging schema information to improve knowledge graph navigation. Specifically, they use the properties and relationships defined in the schema to guide users through the graph.
+* The technique involves several steps: first, the user selects a starting node in the graph. Then, the system presents the user with a list of related properties and nodes, based on the schema. The user can then select one of these options to continue exploring the graph.
+* The authors evaluate their approach on two real-world knowledge graphs and show that it outperforms existing techniques for graph navigation.
+* The paper also discusses some potential applications of the technique, including recommendation systems and search engines.
+* Finally, the authors note some limitations of their approach, such as the fact that it relies on the availability and accuracy of the schema information.
+Overall, the paper presents an interesting approach to improving knowledge graph navigation, and provides some promising results. However, as with any research, there are also some limitations to be aware of.
+
+“InK Browser – The Interactive Knowledge Browser” :
+* The paper describes InK Browser, an interactive web-based tool for exploring knowledge graphs. Knowledge graphs are a type of structured data that represent information in terms of entities (such as people, places, or things) and the relationships between them.
+* InK Browser is designed to support interactive exploration of large knowledge graphs, with features such as filtering, sorting, and searching. Users can navigate through the graph by selecting entities and relationships of interest.
+* InK Browser also includes features for analyzing the structure of the graph, such as visualizing the degree of connectivity between entities and identifying clusters of related entities.
+* The authors describe the architecture of InK Browser, which is based on a client-server model using JavaScript and a RESTful API. They also discuss some of the technical challenges involved in developing the tool, such as optimizing performance and handling large amounts of data.
+* The paper includes several case studies of using InK Browser to explore different knowledge graphs, including a dataset of scientific publications and a dataset of genetic information.
+* The authors conclude that InK Browser provides a useful tool for exploring and understanding large knowledge graphs, and that it has potential for applications in fields such as biomedical research, social network analysis, and business intelligence.
+Overall, the paper provides a detailed overview of the features and capabilities of InK Browser, as well as some insights into the challenges of developing interactive tools for exploring large knowledge graphs.
+
+"WiSP: Weighted Shortest Paths for RDF Graphs" :
+* Authors: Gonzalo Tartari and Aidan Hogan
+* Affiliations: IMFD Chile & Department of Computer Science, University of Chile
+* The paper presents a method for computing shortest paths in RDF graphs, called WiSP.
+* WiSP is a weighted shortest path algorithm that considers both the number of hops and edge weights.
+* The authors evaluate WiSP on various real-world RDF datasets and demonstrate its effectiveness in terms of accuracy and efficiency.
+* WiSP is compared with other shortest path algorithms and shows competitive performance.
+* The paper provides a detailed description of the WiSP algorithm and its implementation.
+* The authors discuss the potential applications of WiSP in various areas, such as knowledge graph exploration, query optimization, and semantic similarity computation.
+* The paper concludes that WiSP is a useful tool for RDF graph analysis and can provide benefits in various applications.
+
+
+
+
+
