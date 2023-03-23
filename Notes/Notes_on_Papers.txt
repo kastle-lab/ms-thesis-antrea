@@ -39,4 +39,10 @@ Phuzzy.link is highly extensible, and allows users to easily define new query te
 
 
 
-
+Notes on DBPedia :
+* DBpedia is a community-driven project that aims to extract structured data from Wikipedia and make it available in a machine-readable format.
+* The data that DBpedia extracts from Wikipedia includes information about people, places, things, and concepts, as well as the relationships between them.
+The structured data is stored in a publicly accessible database that can be queried using a variety of tools and APIs.
+* DBpedia has been used in a variety of applications, including natural language processing, semantic search, and machine learning.
+The project is part of the Linked Open Data (LOD) initiative, which aims to make data freely available on the web in a structured format that can be easily consumed by machines.
+* DBpedia is also linked to other LOD datasets, which allows for the creation of more complex and useful applications that draw on data from multiple sources.
