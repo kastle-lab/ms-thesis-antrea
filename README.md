@@ -11,7 +11,9 @@ Questions to be answered :
 - How do we implement the flexible view ?
 - What will it show ?
 
-Our main goal would eventually help users to explore Linked Open Data (LOD) in a user-friendly manner. It provides a visual interface that displays data from multiple sources, making it easier to navigate and understand complex datasets.
+Our main goal would eventually help users to explore Linked Open Data (LOD) in a user-friendly manner. It provides a visual interface that displays data from multiple sources, making it easier to navigate and understand complex datasets. This means they can choose which components of the data they want to see, and in what format. For example, they can select specific properties of a resource to display, or choose to see the data in a table format rather than a graph. It makes it easier to navigate and understand complex datasets, and can support more efficient and effective data exploration.
+
+Flexible view is an example of one of the advanced features of the Shapes Constraint Language (SHACL), which is used by the INK Browser to define constraints on RDF data. It enables more sophisticated and nuanced constraint definition and validation for RDF data.
 
 The proposed thesis will investigate how the INK Browser can be improved with the implementation of flexible view. This view will allow users to customize the way in which they view and interact with the data.
 
