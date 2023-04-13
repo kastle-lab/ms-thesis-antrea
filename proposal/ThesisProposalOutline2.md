@@ -11,7 +11,9 @@ What is the InK Browser, and how does it work?
 How can we use the InK Browser for knowledge graph exploration?
 What are the benefits of using the InK Browser with flexible views?
 How can we implement flexible views in the InK Browser?
+
 Preliminaries: --part of the introduction ??
+
 A knowledge graph is a type of structured data that represents information in terms of entities (such as people, places, or things) and their relationships (such as "is a", "has", or "works for"). Knowledge graphs are used in a variety of applications, including search engines, recommendation systems, and knowledge management systems.
 shacl --
 
