@@ -49,8 +49,10 @@ Comments regarding weaknesses of the following metrics:
 
 
 ## Conclusions
-The FuS-KG modules have several strengths that contribute to enhancing the AI capabilities of coaching systems, such as providing a solid foundation for monitoring users' functional status. The future expansion of the knowledge base through collaboration with domain experts and data mining techniques demonstrates a commitment to keeping the ontology comprehensive and up-to-date. Additionally, the integration of natural language understanding (NLU) and natural language generation (NLG) components holds the potential to transform natural language texts into semantic representations and generate meaningful contextual feedback. However, some weaknesses should be addressed, including the need for constant updates to the knowledge base, the complexity of integrating NLU and NLG components, and the lack of a living lab evaluation to fully assess the effectiveness and performance of the FuS-KG modules in real-world scenarios. Also, more details should be present regarding the empirical evaluation, providing more insight to feedback from the users and issue resolution.
-
-
+* Overall, the paper provides several strengths that contribute to enhancing the AI capabilities of coaching systems, such as providing a solid foundation for monitoring users' functional status.
+* The future expansion of the knowledge base through collaboration with domain experts and data mining techniques demonstrates a commitment to keeping the ontology comprehensive and up-to-date.
+* However, more details could be addressed regarding the need for constant updates to the knowledge base along with the complexity of integrating NLU and NLG components.
+* Also, more detals could be stated regarding the lack of a living lab evaluation to fully assess the effectiveness and performance of the FuS-KG modules in real-world situations.
+* Finally, more details should be present regarding the empirical evaluation, providing more insight regarding feedback from the users and issue resolution.
 
 
