@@ -13,8 +13,6 @@
 
 ## Related Work
 * Understanding functional status and the difficulties in managing health with little healthcare resources are clearly justified in this section. It states the paper's limitations in terms of giving a survey of FSI approaches, but it also points interested readers towards other resources for more details.
-* The section provides a succinct overview of popular ontology modularity approaches, emphasizing their impact on the creation of FuS-KG modules. 
-* It might benefit from specific references or citations to help with further research investigation as it lacks in-depth analysis and comparisons of different approaches.
 
 ## FuS-KG Modules
 * Food Module:
@@ -40,24 +38,18 @@ Strengths: Supports persuasive dialogues for motivating behavior change. Provide
 Weaknesses: Persuasiveness of arguments may vary among individuals and depending on how good of a dialog can be formed, the effectiveness might be impacted.
 
 ## Empirical Evaluation
-Strengths:
+Comments regarding weaknesses of the following metrics:
 
-* Accuracy: FuS-KG was judged satisfactory in terms of accuracy and correctness.
-* Adaptability: FuS-KG can be extended and specialized without requiring axiom removal.
-* Clarity: Clear communication through concept labels, definitions, and descriptions.
-* Completeness: FuS-KG was deemed complete, covering necessary information for a healthy lifestyle.
-* Computational Efficiency: Reasoning within FuS-KG completed in a reasonable time frame.
-Conciseness, Consistency, and Coherence: Relevant and non-redundant axioms, with no contradictions.
-* Organizational Fitness: FuS-KG deployed as a web service, suitable methodology adopted.
-
-Weaknesses:
-* Adaptability: Non-monotonic updates of user profiles when associated with new profiles.
-* Completeness: A need to include commercial product individuals for improved user engagement.
-* OOPS! Evaluation: Some pitfalls related to reused ontologies, but resolved for newly implemented entities.
+* Accuracy: Limited information regarding the real world representation.
+* Clarity: Even though it is stated that every definition is well documented for the intented users, there is no information about any feedback for them to validate it.
+* Completeness : Even though the evaluators aggreed on the completeness of the  FuS-KG, there was nothing mentioned regarding potential risks or issues that might occur.
+* Consistency: Even though the evaluators stated that they observed little bias between the documentation containing the informal description of the concepts and their formalization, more details are lacking.
+* Organizational fitness : Feedback from users was not clearly stated on wherether the site is as easily as accessible as mentioned.
+* OOPS! tool evaluation: Even thought the stated issues are said to be resolved, details regarding "how" are missing.
 
 
 ## Conclusions
-The FuS-KG modules have several strengths that contribute to enhancing the AI capabilities of coaching systems, such as providing a solid foundation for monitoring users' functional status. The future expansion of the knowledge base through collaboration with domain experts and data mining techniques demonstrates a commitment to keeping the ontology comprehensive and up-to-date. Additionally, the integration of natural language understanding (NLU) and natural language generation (NLG) components holds the potential to transform natural language texts into semantic representations and generate meaningful contextual feedback. However, some weaknesses should be addressed, including the need for constant updates to the knowledge base, the complexity of integrating NLU and NLG components, and the lack of a living lab evaluation to fully assess the effectiveness and performance of the FuS-KG modules in real-world scenarios.
+The FuS-KG modules have several strengths that contribute to enhancing the AI capabilities of coaching systems, such as providing a solid foundation for monitoring users' functional status. The future expansion of the knowledge base through collaboration with domain experts and data mining techniques demonstrates a commitment to keeping the ontology comprehensive and up-to-date. Additionally, the integration of natural language understanding (NLU) and natural language generation (NLG) components holds the potential to transform natural language texts into semantic representations and generate meaningful contextual feedback. However, some weaknesses should be addressed, including the need for constant updates to the knowledge base, the complexity of integrating NLU and NLG components, and the lack of a living lab evaluation to fully assess the effectiveness and performance of the FuS-KG modules in real-world scenarios. Also, more details should be present regarding the empirical evaluation, providing more insight to feedback from the users and issue resolution.
 
 
 
