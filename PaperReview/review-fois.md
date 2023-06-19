@@ -53,6 +53,6 @@ Comments regarding weaknesses of the following metrics:
 * The future expansion of the knowledge base through collaboration with domain experts and data mining techniques demonstrates a commitment to keeping the ontology comprehensive and up-to-date.
 * However, more details could be addressed regarding the need for constant updates to the knowledge base along with the complexity of integrating NLU and NLG components.
 * Also, more detals could be stated regarding the lack of a living lab evaluation to fully assess the effectiveness and performance of the FuS-KG modules in real-world situations.
-* Finally, more details should be present regarding the empirical evaluation, providing more insight to feedback from the users and issue resolution.
+* Finally, more details should be present regarding the empirical evaluation, providing more insight regarding feedback from the users and issue resolution.
 
 
